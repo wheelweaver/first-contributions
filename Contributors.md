@@ -1,4 +1,4 @@
-﻿# Contributors
+﻿# Contributors 
 - [yingl](https://github.com/godsome)
 - [ACAYspace](https://github.com/ACAYspace)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
@@ -28,6 +28,7 @@
 - Annie Watson
 - Samuel Burton-Laurie
 - Anna Shera
+- Kumar Al'Thor
 - Ahmed Zaghrat
 - Saumya Gandhi
 - Sachin Hegde
